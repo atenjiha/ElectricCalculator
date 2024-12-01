@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        app:showAsAction="always"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+    <item
+        android:id="@+id/instruction"
+        android:title="Instruction"
+        app:showAsAction="never"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+</menu>

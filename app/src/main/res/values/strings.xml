@@ -1,0 +1,7 @@
+<resources>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="navigation_drawer_close">Close</string>
+    <string name="app_name">Electric Calculator</string>
+</resources>
